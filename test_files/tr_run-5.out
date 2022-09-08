@@ -1,0 +1,11 @@
+traceroute to www.google.com (142.250.68.100), 10 hops max, 60 byte packets
+ 1  DESKTOP-O7JO25I.mshome.net (172.26.192.1)  0.248 ms  0.239 ms  0.252 ms
+ 2  osync.lan (192.168.1.1)  2.583 ms  2.721 ms  3.182 ms
+ 3  * * *
+ 4  lag-61.dtr01athnga.netops.charter.com (96.34.15.124)  10.583 ms  16.598 ms  15.469 ms
+ 5  lag-204.crr02sghlga.netops.charter.com (96.34.72.47)  17.228 ms  18.178 ms  18.175 ms
+ 6  lag-811.bbr02atlnga.netops.charter.com (96.34.2.72)  18.874 ms  18.853 ms  17.499 ms
+ 7  lag-802.prr01atlnga.netops.charter.com (96.34.3.111)  17.520 ms  13.699 ms  13.683 ms
+ 8  096-034-150-059.biz.spectrum.com (96.34.150.59)  13.638 ms  18.104 ms 74.125.51.142 (74.125.51.142)  13.051 ms
+ 9  * * *
+10  108.170.249.97 (108.170.249.97)  16.870 ms  16.238 ms  16.108 ms
